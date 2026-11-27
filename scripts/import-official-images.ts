@@ -19,7 +19,10 @@ type Candidate = {
 };
 
 const discovery = JSON.parse(
-  await readFile("official-image-candidates.json", "utf8"),
+  await readFile(
+    process.env.IMAGE_CANDIDATES || "official-image-candidates.json",
+    "utf8",
+  ),
 ) as { results: Candidate[] };
 type CatalogRecord = Omit<(typeof fragrances)[number], "sources"> & {
   sources: string[];
@@ -27,7 +30,10 @@ type CatalogRecord = Omit<(typeof fragrances)[number], "sources"> & {
 const catalog = fragrances as CatalogRecord[];
 const run = promisify(execFile);
 const slug = (value: string) =>
-  value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+  value
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
 const extensionFor = (bytes: Buffer) => {
   if (bytes.subarray(0, 3).toString("hex") === "ffd8ff") return "jpg";
   if (bytes.subarray(1, 4).toString() === "PNG") return "png";
@@ -37,7 +43,9 @@ const extensionFor = (bytes: Buffer) => {
 };
 
 const report: Array<Record<string, unknown>> = [];
-for (const result of discovery.results.filter((item) => item.status === "exact")) {
+for (const result of discovery.results.filter(
+  (item) => item.status === "exact",
+)) {
   const candidate = result.candidates[0];
   const existingRecord = catalog.find((item) => item.id === result.id);
   if (existingRecord?.image.localPath) {
@@ -79,9 +87,11 @@ for (const result of discovery.results.filter((item) => item.status === "exact")
     if (!record) throw new Error("Catalog record missing");
     record.image.localPath = relative;
     record.image.sourceUrl = candidate.url;
-    record.image.licenseStatus = "official-source-reuse-unverified";
+    record.image.licenseStatus =
+      process.env.IMAGE_LICENSE_STATUS || "official-source-reuse-unverified";
     record.image.verified = true;
-    if (!record.sources.includes(candidate.url)) record.sources.push(candidate.url);
+    if (!record.sources.includes(candidate.url))
+      record.sources.push(candidate.url);
     report.push({
       id: result.id,
       status: "downloaded",
@@ -106,7 +116,7 @@ for (const result of discovery.results.filter((item) => item.status === "exact")
 
 await writeFile(
   "src/data/fragrances.json",
-    `${JSON.stringify(catalog, null, 2)}\n`,
+  `${JSON.stringify(catalog, null, 2)}\n`,
 );
 await writeFile(
   "image-verification-report.json",
