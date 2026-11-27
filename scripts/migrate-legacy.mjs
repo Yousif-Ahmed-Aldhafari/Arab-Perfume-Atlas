@@ -1,6 +1,6 @@
 import { execFileSync } from "node:child_process";
 import { writeFileSync } from "node:fs";
-const html = execFileSync("git", ["show", "main:index.html"], {
+const html = execFileSync("git", ["show", "c47bbc5:index.html"], {
   encoding: "utf8",
   maxBuffer: 2e6,
 });
@@ -14,13 +14,6 @@ const slug = (value) =>
     .replace(/[^a-zA-Z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "")
     .toLowerCase();
-const verifiedAfnan = new Set([
-  "Supremacy Incense",
-  "9PM",
-  "9AM Dive",
-  "9AM Pour Femme",
-  "9PM Pour Femme",
-]);
 const rows = match[1]
   .trim()
   .split("\n")
@@ -56,14 +49,10 @@ const rows = match[1]
           currency: "USD",
           region: "Unknown",
           sizeMl: null,
-          type:
-            brand === "Afnan" && verifiedAfnan.has(name)
-              ? "verified-retailer"
-              : "estimated",
+          type: "estimated",
           sourceUrl:
             brand === "Afnan" ? "https://us.afnan.com/collections/all" : null,
-          verifiedAt:
-            brand === "Afnan" && verifiedAfnan.has(name) ? "2025-01-01" : null,
+          verifiedAt: null,
         },
       ],
       image: {

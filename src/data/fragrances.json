@@ -29,9 +29,9 @@
         "currency": "USD",
         "region": "Unknown",
         "sizeMl": null,
-        "type": "verified-retailer",
+        "type": "estimated",
         "sourceUrl": "https://us.afnan.com/collections/all",
-        "verifiedAt": "2025-01-01"
+        "verifiedAt": null
       }
     ],
     "image": {
@@ -314,9 +314,9 @@
         "currency": "USD",
         "region": "Unknown",
         "sizeMl": null,
-        "type": "verified-retailer",
+        "type": "estimated",
         "sourceUrl": "https://us.afnan.com/collections/all",
-        "verifiedAt": "2025-01-01"
+        "verifiedAt": null
       }
     ],
     "image": {
@@ -372,9 +372,9 @@
         "currency": "USD",
         "region": "Unknown",
         "sizeMl": null,
-        "type": "verified-retailer",
+        "type": "estimated",
         "sourceUrl": "https://us.afnan.com/collections/all",
-        "verifiedAt": "2025-01-01"
+        "verifiedAt": null
       }
     ],
     "image": {
@@ -4843,9 +4843,9 @@
         "currency": "USD",
         "region": "Unknown",
         "sizeMl": null,
-        "type": "verified-retailer",
+        "type": "estimated",
         "sourceUrl": "https://us.afnan.com/collections/all",
-        "verifiedAt": "2025-01-01"
+        "verifiedAt": null
       }
     ],
     "image": {
@@ -4892,9 +4892,9 @@
         "currency": "USD",
         "region": "Unknown",
         "sizeMl": null,
-        "type": "verified-retailer",
+        "type": "estimated",
         "sourceUrl": "https://us.afnan.com/collections/all",
-        "verifiedAt": "2025-01-01"
+        "verifiedAt": null
       }
     ],
     "image": {
