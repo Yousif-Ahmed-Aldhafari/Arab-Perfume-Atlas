@@ -1620,13 +1620,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/maison-alhambra/maison-alhambra-tabac.webp",
+      "sourceUrl": "https://eaperfumes.co.uk/products/tabac-100ml-by-maison-alhambra-eau-de-parfum",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://eaperfumes.co.uk/products/tabac-100ml-by-maison-alhambra-eau-de-parfum"
+    ],
     "similar": [
       {
         "name": "Dior Tobacolor",
@@ -1675,13 +1677,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/maison-alhambra/maison-alhambra-tobacco-touch.webp",
+      "sourceUrl": "https://silkperfumes.cl/products/maison-al-hambra-tabacco-touch-edp-80-ml",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://silkperfumes.cl/products/maison-al-hambra-tabacco-touch-edp-80-ml"
+    ],
     "similar": [
       {
         "name": "Tom Ford Tobacco Vanille",
@@ -1958,13 +1962,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/french-avenue/french-avenue-after-effect.webp",
+      "sourceUrl": "https://soghaat.co.uk/products/after-effect-80ml-edp-by-french-avenue-fragrance-world",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://soghaat.co.uk/products/after-effect-80ml-edp-by-french-avenue-fragrance-world"
+    ],
     "similar": [
       {
         "name": "Initio Side Effect",
@@ -3649,13 +3655,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/armaf/armaf-legesi-homme.webp",
+      "sourceUrl": "https://priveperfumes.com/en/products/perfume-armaf-legesi-homme-edp-m-100-ml",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://priveperfumes.com/en/products/perfume-armaf-legesi-homme-edp-m-100-ml"
+    ],
     "similar": [
       {
         "name": "Chanel Platinum Egoiste",
@@ -3932,13 +3940,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/maison-alhambra/maison-alhambra-woody-oud.webp",
+      "sourceUrl": "https://www.intenseoud.com/products/woody-oud-for-men-edp-80ml-2-7oz-by-maison-alhambra",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://www.intenseoud.com/products/woody-oud-for-men-edp-80ml-2-7oz-by-maison-alhambra"
+    ],
     "similar": [
       {
         "name": "Tom Ford Oud Wood",
@@ -4500,13 +4510,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/fragrance-world/fragrance-world-suits.webp",
+      "sourceUrl": "https://soghaat.co.uk/products/suits-100ml-edp-by-fragrance-world",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://soghaat.co.uk/products/suits-100ml-edp-by-fragrance-world"
+    ],
     "similar": [
       {
         "name": "YSL Tuxedo",
@@ -4555,13 +4567,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/fragrance-world/fragrance-world-divin-asylum.webp",
+      "sourceUrl": "https://oudstore.com/products/divin-asylum-premium-niche-edp-perfume-by-fragrance-world",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://oudstore.com/products/divin-asylum-premium-niche-edp-perfume-by-fragrance-world"
+    ],
     "similar": [
       {
         "name": "Roja Elysium",
@@ -4667,13 +4681,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/khadlaj/khadlaj-shiyaaka-for-men.webp",
+      "sourceUrl": "https://soghaat.co.uk/products/shiyaaka-for-men-100ml-edp-by-khadlaj",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://soghaat.co.uk/products/shiyaaka-for-men-100ml-edp-by-khadlaj"
+    ],
     "similar": [
       {
         "name": "Amouage Reflection Man",
@@ -4722,13 +4738,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/ard-al-zaafaran/ard-al-zaafaran-midnight-oud.webp",
+      "sourceUrl": "https://soghaat.co.uk/products/midnight-oud-100ml-edp-by-ard-al-zaafaran",
+      "licenseStatus": "reliable-retailer-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://soghaat.co.uk/products/midnight-oud-100ml-edp-by-ard-al-zaafaran"
+    ],
     "similar": [
       {
         "name": "Amouage Interlude Man",
@@ -5148,14 +5166,16 @@
     "verificationStatus": "legacy-unverified"
   },
   {
-    "id": "afnan-highness-i",
+    "id": "afnan-highness-iii",
     "brand": "Afnan",
-    "nameEn": "Highness I",
+    "nameEn": "Highness III",
     "nameAr": null,
-    "gender": "Women",
+    "gender": "Unisex",
     "releaseYear": null,
-    "concentration": null,
-    "bottleSizesMl": [],
+    "concentration": "Eau de Parfum",
+    "bottleSizesMl": [
+      100
+    ],
     "descriptionEn": null,
     "descriptionAr": null,
     "notes": {
@@ -5164,7 +5184,9 @@
       "base": []
     },
     "mainAccords": [
-      "طابع زهري"
+      "جلدي",
+      "خشبي",
+      "منعش"
     ],
     "family": null,
     "seasons": [],
@@ -5176,35 +5198,37 @@
         "max": 90,
         "currency": "USD",
         "region": "Unknown",
-        "sizeMl": null,
+        "sizeMl": 100,
         "type": "estimated",
-        "sourceUrl": "https://us.afnan.com/collections/all",
+        "sourceUrl": "https://us.afnan.com/products/highness-iii",
         "verifiedAt": null
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-highness-iii.webp",
+      "sourceUrl": "https://us.afnan.com/products/highness-iii",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
-    "officialUrl": null,
+    "officialUrl": "https://us.afnan.com/products/highness-iii",
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/products/highness-iii"
     ],
     "similar": [],
     "alternatives": [],
-    "verificationStatus": "legacy-unverified"
+    "verificationStatus": "official-source"
   },
   {
-    "id": "afnan-highness-ii",
+    "id": "afnan-highness-iv",
     "brand": "Afnan",
-    "nameEn": "Highness II",
+    "nameEn": "Highness IV",
     "nameAr": null,
-    "gender": "Women",
+    "gender": "Unisex",
     "releaseYear": null,
-    "concentration": null,
-    "bottleSizesMl": [],
+    "concentration": "Eau de Parfum",
+    "bottleSizesMl": [
+      100
+    ],
     "descriptionEn": null,
     "descriptionAr": null,
     "notes": {
@@ -5213,7 +5237,9 @@
       "base": []
     },
     "mainAccords": [
-      "طابع شرقي زهري"
+      "عنبر",
+      "زهري",
+      "عود"
     ],
     "family": null,
     "seasons": [],
@@ -5225,25 +5251,25 @@
         "max": 90,
         "currency": "USD",
         "region": "Unknown",
-        "sizeMl": null,
+        "sizeMl": 100,
         "type": "estimated",
-        "sourceUrl": "https://us.afnan.com/collections/all",
+        "sourceUrl": "https://us.afnan.com/products/highness-iv",
         "verifiedAt": null
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-highness-iv.webp",
+      "sourceUrl": "https://us.afnan.com/products/highness-iv",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
-    "officialUrl": null,
+    "officialUrl": "https://us.afnan.com/products/highness-iv",
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/products/highness-iv"
     ],
     "similar": [],
     "alternatives": [],
-    "verificationStatus": "legacy-unverified"
+    "verificationStatus": "official-source"
   },
   {
     "id": "afnan-modest-deux",

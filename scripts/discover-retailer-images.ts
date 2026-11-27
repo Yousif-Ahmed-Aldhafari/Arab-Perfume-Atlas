@@ -21,9 +21,21 @@ const retailers = [
   { domain: "perfumeonline.ca", source: "retailer-perfume-online" },
   { domain: "tripletraders.com", source: "retailer-triple-traders" },
   { domain: "intenseoud.com", source: "retailer-intense-oud" },
+  { domain: "perfumebox.com", source: "retailer-perfume-box" },
+  { domain: "fragranceoutlet.com", source: "retailer-fragrance-outlet" },
+  { domain: "labelleperfumes.com", source: "retailer-la-belle" },
+  { domain: "filledwithbarakah.com", source: "retailer-filled-with-barakah" },
+  { domain: "soghaat.co.uk", source: "retailer-soghaat" },
+  { domain: "dubaiperfumeshop.ie", source: "retailer-dubai-perfume-shop" },
+  { domain: "oudstore.com", source: "retailer-oud-store" },
 ] as const;
 // These search results are distinct editions, not the exact catalog item.
-const rejectedCandidateIds = new Set(["lattafa-badee-al-oud-amethyst"]);
+const rejectedCandidateIds = new Set([
+  "maison-alhambra-tabac",
+  "maison-alhambra-tobacco-touch",
+  "maison-alhambra-woody-oud",
+  "lattafa-badee-al-oud-amethyst",
+]);
 const preferredProductUrls: Record<string, string> = {
   "al-haramain-amber-oud-tobacco-edition":
     "https://perfumeonline.ca/products/amber-oud-tobacco-edition",
@@ -38,6 +50,37 @@ const preferredProductUrls: Record<string, string> = {
     "https://perfumeonline.ca/products/ajmal-evoke-gold-edition",
   "lattafa-badee-al-oud-amethyst":
     "https://perfumeonline.ca/products/badee-al-oud-amethyst",
+  "ard-al-zaafaran-midnight-oud":
+    "https://soghaat.co.uk/products/midnight-oud-100ml-edp-by-ard-al-zaafaran",
+};
+const manuallyVerifiedCandidates: Record<string, Candidate> = {
+  "maison-alhambra-tabac": {
+    title: "Tabac 100ml By Maison Alhambra - Eau De Parfum",
+    url: "https://eaperfumes.co.uk/products/tabac-100ml-by-maison-alhambra-eau-de-parfum",
+    imageUrl: "https://eaperfumes.co.uk/storage/catalog/products/tabac.jpg",
+    source: "retailer-ea-perfumes",
+  },
+  "maison-alhambra-tobacco-touch": {
+    title: "Maison Al Hambra Tobacco Touch EDP 80 ml",
+    url: "https://silkperfumes.cl/products/maison-al-hambra-tabacco-touch-edp-80-ml",
+    imageUrl:
+      "https://silkperfumes.cl/cdn/shop/products/maison-al-hambra-tabacco-touch-edp-80ml-Silk-Perfumes-1.jpg?crop=center&height=1200&v=1747681819&width=1200",
+    source: "retailer-silk-perfumes",
+  },
+  "maison-alhambra-woody-oud": {
+    title: "Woody Oud Eau de Parfum Spray 80ml by Maison Alhambra",
+    url: "https://www.intenseoud.com/products/woody-oud-for-men-edp-80ml-2-7oz-by-maison-alhambra",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0127/7840/5947/products/Untitleddesign_96_cd03827a-f882-4288-a1e3-be803e66d89a.png?v=1677363863",
+    source: "retailer-intense-oud",
+  },
+  "armaf-legesi-homme": {
+    title: "Armaf Legesi Homme EDP 100 ml",
+    url: "https://priveperfumes.com/en/products/perfume-armaf-legesi-homme-edp-m-100-ml",
+    imageUrl:
+      "https://priveperfumes.com/cdn/shop/files/perfume-armaf-legesi-homme-edp-m-100-ml-1-prive-perfumes.webp?v=1738136223&width=1024",
+    source: "retailer-prive-perfumes",
+  },
 };
 const run = promisify(execFile);
 await mkdir(".cache/retailer-search", { recursive: true });
@@ -146,11 +189,15 @@ for (const fragrance of fragrances.filter((item) => !item.image.localPath)) {
     ).values(),
   ];
   const preferredUrl = preferredProductUrls[fragrance.id];
-  const preferred = preferredUrl
-    ? deduplicatedCandidates.find((candidate) => candidate.url === preferredUrl)
-    : rejectedCandidateIds.has(fragrance.id)
-      ? undefined
-      : unique[0];
+  const preferred =
+    manuallyVerifiedCandidates[fragrance.id] ??
+    (preferredUrl
+      ? deduplicatedCandidates.find(
+          (candidate) => candidate.url === preferredUrl,
+        )
+      : rejectedCandidateIds.has(fragrance.id)
+        ? undefined
+        : unique[0]);
   results.push({
     id: fragrance.id,
     brand: fragrance.brand,
