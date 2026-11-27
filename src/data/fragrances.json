@@ -1981,13 +1981,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/french-avenue/french-avenue-liquid-brun.webp",
+      "sourceUrl": "https://frenchavenue.com/products/liquid-brun",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://frenchavenue.com/products/liquid-brun"
+    ],
     "similar": [
       {
         "name": "PDM Althair",
@@ -2146,13 +2148,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/ibraq/ibraq-spanish-tobacco.webp",
+      "sourceUrl": "https://ibraquk.com/products/spanish-tobacco-edp-100ml",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://ibraquk.com/products/spanish-tobacco-edp-100ml"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -2193,13 +2197,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/ibraq/ibraq-cuban-tobacco.webp",
+      "sourceUrl": "https://ibraquk.com/products/cuban-tobacco-edp-100ml",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://ibraquk.com/products/cuban-tobacco-edp-100ml"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -2240,13 +2246,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/ibraq/ibraq-mexican-tobacco.webp",
+      "sourceUrl": "https://ibraquk.com/products/mexican-tobacco-edp-100ml",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://ibraquk.com/products/mexican-tobacco-edp-100ml"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -2287,13 +2295,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/ibraq/ibraq-brazilian-tobacco.webp",
+      "sourceUrl": "https://ibraquk.com/products/brazilian-tobacco-edp-100ml",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://ibraquk.com/products/brazilian-tobacco-edp-100ml"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -2334,13 +2344,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/ibraq/ibraq-arabian-tobacco.webp",
+      "sourceUrl": "https://ibraquk.com/products/arabian-tobacco-edp-200ml",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://ibraquk.com/products/arabian-tobacco-edp-200ml"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -2381,13 +2393,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/swiss-arabian/swiss-arabian-shaghaf-oud.webp",
+      "sourceUrl": "https://swissarabian.com/products/shaghaf-oud-3",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://swissarabian.com/products/shaghaf-oud-3"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -2428,13 +2442,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/swiss-arabian/swiss-arabian-shaghaf-oud-tonka.webp",
+      "sourceUrl": "https://swissarabian.com/products/shaghaf-oud-tonka",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://swissarabian.com/products/shaghaf-oud-tonka"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -4021,13 +4037,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/french-avenue/french-avenue-spectre-ghost.webp",
+      "sourceUrl": "https://frenchavenue.com/products/spectre-ghost",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://frenchavenue.com/products/spectre-ghost"
+    ],
     "similar": [
       {
         "name": "Nishane Ani",
@@ -4076,13 +4094,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/french-avenue/french-avenue-royal-blend.webp",
+      "sourceUrl": "https://frenchavenue.com/products/royal-blend",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://frenchavenue.com/products/royal-blend"
+    ],
     "similar": [
       {
         "name": "Kilian Angels’ Share",
@@ -4131,13 +4151,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/french-avenue/french-avenue-vulcan-feu.webp",
+      "sourceUrl": "https://frenchavenue.com/products/vulcan-feu",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://frenchavenue.com/products/vulcan-feu"
+    ],
     "similar": [
       {
         "name": "SHL God of Fire",
@@ -4736,13 +4758,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/ibraq/ibraq-dominican-tobacco.webp",
+      "sourceUrl": "https://ibraquk.com/products/dominican-tobacco-edp-100ml",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://ibraquk.com/products/dominican-tobacco-edp-100ml"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"

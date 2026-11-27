@@ -8,7 +8,15 @@ type Product = {
   title: string;
   url: string;
   imageUrl: string;
-  source: "official-afnan" | "official-armaf" | "official-lattafa";
+  source:
+    | "official-afnan"
+    | "official-armaf"
+    | "official-lattafa"
+    | "official-french-avenue"
+    | "official-khadlaj"
+    | "official-swiss-arabian"
+    | "official-rayhaan"
+    | "official-ibraq";
 };
 
 const normalize = (value: string) =>
@@ -122,12 +130,30 @@ const products = [
     ? []
     : await safe("Armaf", () => shopify("armaf.com", "official-armaf"))),
   ...(await safe("Lattafa", lattafa)),
+  ...(await safe("French Avenue", () =>
+    shopify("frenchavenue.com", "official-french-avenue"),
+  )),
+  ...(await safe("Khadlaj", () =>
+    shopify("khadlaj-perfumes.com", "official-khadlaj"),
+  )),
+  ...(await safe("Swiss Arabian", () =>
+    shopify("swissarabian.com", "official-swiss-arabian"),
+  )),
+  ...(await safe("Rayhaan", () =>
+    shopify("rayhaanperfumes.com", "official-rayhaan"),
+  )),
+  ...(await safe("IBRAQ", () => shopify("ibraquk.com", "official-ibraq"))),
 ];
 
 const brandSource: Record<string, Product["source"]> = {
   Afnan: "official-afnan",
   Armaf: "official-armaf",
   Lattafa: "official-lattafa",
+  "French Avenue": "official-french-avenue",
+  Khadlaj: "official-khadlaj",
+  "Swiss Arabian": "official-swiss-arabian",
+  Rayhaan: "official-rayhaan",
+  IBRAQ: "official-ibraq",
 };
 const officialTitleAliases: Record<string, string> = {
   "lattafa-badee-al-oud-oud-for-glory": "Badee Al Oud &#8211; Oud for glory",
