@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yousif-ahmed-aldhafari.github.io/Arab-Perfume-Atlas/sitemap.xml

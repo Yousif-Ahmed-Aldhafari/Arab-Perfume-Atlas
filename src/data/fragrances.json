@@ -1,0 +1,5992 @@
+[
+  {
+    "id": "afnan-supremacy-incense",
+    "brand": "Afnan",
+    "nameEn": "Supremacy Incense",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "بخور وعود وعنبر وتوابل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": 50,
+        "min": 50,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "verified-retailer",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": "2025-01-01"
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": "https://uae.afnan.com/products/supremacy-incense",
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": "https://afnan.com/products/supremacy-incense",
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Amouage Interlude Man",
+        "priceLabel": "350–395",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-supremacy-silver",
+    "brand": "Afnan",
+    "nameEn": "Supremacy Silver",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "أناناس وأخشاب ودخان"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Creed Aventus",
+        "priceLabel": "350–495",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-supremacy-not-only-intense",
+    "brand": "Afnan",
+    "nameEn": "Supremacy Not Only Intense",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فاكهي وطحلب البلوط"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 60,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Nishane Hacivat",
+        "priceLabel": "200–340",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-supremacy-in-oud",
+    "brand": "Afnan",
+    "nameEn": "Supremacy in Oud",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "عود وزعفران وتوابل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 60,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Initio Oud for Greatness",
+        "priceLabel": "300–410",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-supremacy-in-heaven",
+    "brand": "Afnan",
+    "nameEn": "Supremacy in Heaven",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات وشاي ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Creed Silver Mountain Water",
+        "priceLabel": "300–470",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-9pm",
+    "brand": "Afnan",
+    "nameEn": "9PM",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فانيليا وفواكه حلوة"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "verified-retailer",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": "2025-01-01"
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "JPG Ultra Male",
+        "priceLabel": "100–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-9am-dive",
+    "brand": "Afnan",
+    "nameEn": "9AM Dive",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات ونعناع وأخشاب",
+      "تشابه جزئي"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "verified-retailer",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": "2025-01-01"
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "YSL Y EDP",
+        "priceLabel": "110–155",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-turathi-blue",
+    "brand": "Afnan",
+    "nameEn": "Turathi Blue",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "جريب فروت وعنبر وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Bvlgari Tygar",
+        "priceLabel": "350–480",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-turathi-brown",
+    "brand": "Afnan",
+    "nameEn": "Turathi Brown",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "باتشولي وعنبر وتوابل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "YSL Tuxedo",
+        "priceLabel": "250–330",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-turathi-electric",
+    "brand": "Afnan",
+    "nameEn": "Turathi Electric",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فاكهي منعش ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Ex Nihilo Blue Talisman",
+        "priceLabel": "250–400",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-rare-carbon",
+    "brand": "Afnan",
+    "nameEn": "Rare Carbon",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "جلد وبنفسج وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Tom Ford Ombré Leather",
+        "priceLabel": "160–240",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-rare-reef",
+    "brand": "Afnan",
+    "nameEn": "Rare Reef",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فاكهي وحمضي منعش"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Louis Vuitton Pacific Chill",
+        "priceLabel": "320–400",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-tobacco-rush",
+    "brand": "Afnan",
+    "nameEn": "Tobacco Rush",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وعود وتوابل",
+      "تشابه جزئي"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Mancera Red Tobacco",
+        "priceLabel": "80–180",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-historic-sahara",
+    "brand": "Afnan",
+    "nameEn": "Historic Sahara",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فانيليا وتوابل دافئة"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "PDM Althair",
+        "priceLabel": "250–365",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-mystique-bouquet",
+    "brand": "Afnan",
+    "nameEn": "Mystique Bouquet",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زهور بيضاء ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "PDM Valaya",
+        "priceLabel": "250–380",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-cherry-bouquet",
+    "brand": "Afnan",
+    "nameEn": "Cherry Bouquet",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "كرز ولوز ونفحات حلوة"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Tom Ford Lost Cherry",
+        "priceLabel": "300–600",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-souvenir-floral-bouquet",
+    "brand": "Afnan",
+    "nameEn": "Souvenir Floral Bouquet",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "ورد وليتشي وفواكه"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "PDM Delina",
+        "priceLabel": "250–380",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-modest-une",
+    "brand": "Afnan",
+    "nameEn": "Modest Une",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فلفل وبرغموت وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Dior Sauvage",
+        "priceLabel": "100–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-khamrah",
+    "brand": "Lattafa",
+    "nameEn": "Khamrah",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "قرفة وتمر وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Kilian Angels’ Share",
+        "priceLabel": "230–300",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-khamrah-qahwa",
+    "brand": "Lattafa",
+    "nameEn": "Khamrah Qahwa",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "قهوة وقرفة وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-khamrah-dukhan",
+    "brand": "Lattafa",
+    "nameEn": "Khamrah Dukhan",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وبخور وتوابل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-asad",
+    "brand": "Lattafa",
+    "nameEn": "Asad",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "توابل وعنبر وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Dior Sauvage Elixir",
+        "priceLabel": "150–200",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-yara",
+    "brand": "Lattafa",
+    "nameEn": "Yara",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فواكه استوائية وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-badee-al-oud-oud-for-glory",
+    "brand": "Lattafa",
+    "nameEn": "Badee Al Oud Oud for Glory",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "عود وزعفران"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Initio Oud for Greatness",
+        "priceLabel": "300–410",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-badee-al-oud-honor-glory",
+    "brand": "Lattafa",
+    "nameEn": "Badee Al Oud Honor & Glory",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "أناناس وكريمة وتوابل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-qaaed-intense",
+    "brand": "Lattafa",
+    "nameEn": "Qaaed Intense",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وعسل وأخشاب",
+      "تشابه جزئي"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Givenchy Gentleman Reserve Privee",
+        "priceLabel": "90–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "al-haramain-amber-oud-tobacco-edition",
+    "brand": "Al Haramain",
+    "nameEn": "Amber Oud Tobacco Edition",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وفانيليا وقرفة"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 45,
+        "max": 80,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Tom Ford Tobacco Vanille",
+        "priceLabel": "300–500",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "al-haramain-amber-oud-gold-edition",
+    "brand": "Al Haramain",
+    "nameEn": "Amber Oud Gold Edition",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فواكه حلوة ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 40,
+        "max": 80,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Xerjoff Erba Pura",
+        "priceLabel": "220–300",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-tabac",
+    "brand": "Maison Alhambra",
+    "nameEn": "Tabac",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وعسل وفواكه"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Dior Tobacolor",
+        "priceLabel": "300–450",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-tobacco-touch",
+    "brand": "Maison Alhambra",
+    "nameEn": "Tobacco Touch",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وفانيليا وقرنفل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 18,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Tom Ford Tobacco Vanille",
+        "priceLabel": "300–500",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-lovely-cherie",
+    "brand": "Maison Alhambra",
+    "nameEn": "Lovely Cherie",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "كرز ولوز"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 18,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Tom Ford Lost Cherry",
+        "priceLabel": "300–600",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-the-tux",
+    "brand": "Maison Alhambra",
+    "nameEn": "The Tux",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "باتشولي وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "YSL Tuxedo",
+        "priceLabel": "250–330",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "paris-corner-charuto-tobacco-vanille",
+    "brand": "Paris Corner",
+    "nameEn": "Charuto Tobacco Vanille",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Tom Ford Tobacco Vanille",
+        "priceLabel": "300–500",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "paris-corner-killer-oud",
+    "brand": "Paris Corner",
+    "nameEn": "Killer Oud",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "بخور وتوابل وعود"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Amouage Interlude Man",
+        "priceLabel": "350–395",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "french-avenue-after-effect",
+    "brand": "French Avenue",
+    "nameEn": "After Effect",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وقرفة وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 60,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Initio Side Effect",
+        "priceLabel": "300–400",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "french-avenue-liquid-brun",
+    "brand": "French Avenue",
+    "nameEn": "Liquid Brun",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فانيليا وقرفة وبرالين"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 60,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "PDM Althair",
+        "priceLabel": "250–365",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "rasasi-hawas-for-him",
+    "brand": "Rasasi",
+    "nameEn": "Hawas for Him",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فواكه ونفحات مائية ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Rabanne Invictus Aqua",
+        "priceLabel": "80–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "rasasi-la-yuqawam-homme",
+    "brand": "Rasasi",
+    "nameEn": "La Yuqawam Homme",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "جلد وتوت وزعفران"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 45,
+        "max": 80,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Tom Ford Tuscan Leather",
+        "priceLabel": "250–450",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "ibraq-spanish-tobacco",
+    "brand": "IBRAQ",
+    "nameEn": "Spanish Tobacco",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وكاكاو وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 40,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "ibraq-cuban-tobacco",
+    "brand": "IBRAQ",
+    "nameEn": "Cuban Tobacco",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ دافئ بطابع كلاسيكي"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 40,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "ibraq-mexican-tobacco",
+    "brand": "IBRAQ",
+    "nameEn": "Mexican Tobacco",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وتوابل حلوة"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 40,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "ibraq-brazilian-tobacco",
+    "brand": "IBRAQ",
+    "nameEn": "Brazilian Tobacco",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ بطابع خشبي"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 40,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "ibraq-arabian-tobacco",
+    "brand": "IBRAQ",
+    "nameEn": "Arabian Tobacco",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ بطابع شرقي"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 40,
+        "max": 70,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "swiss-arabian-shaghaf-oud",
+    "brand": "Swiss Arabian",
+    "nameEn": "Shaghaf Oud",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "عود وورد وبرالين"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "swiss-arabian-shaghaf-oud-tonka",
+    "brand": "Swiss Arabian",
+    "nameEn": "Shaghaf Oud Tonka",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تونكا ولوز وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-supremacy-collectors-edition",
+    "brand": "Afnan",
+    "nameEn": "Supremacy Collector’s Edition",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "أناناس وتوابل وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Creed Absolu Aventus",
+        "priceLabel": "400–550",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-9pm-rebel",
+    "brand": "Afnan",
+    "nameEn": "9PM Rebel",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "أناناس وكراميل وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-9pm-elixir",
+    "brand": "Afnan",
+    "nameEn": "9PM Elixir",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فانيليا وتوابل وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-la-fleur-bouquet",
+    "brand": "Afnan",
+    "nameEn": "La Fleur Bouquet",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زهور وفواكه ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Ex Nihilo Fleur Narcotique",
+        "priceLabel": "250–380",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-violet-bouquet",
+    "brand": "Afnan",
+    "nameEn": "Violet Bouquet",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "عنبر وزعفران وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "MFK Baccarat Rouge 540",
+        "priceLabel": "250–500",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-rare-passion",
+    "brand": "Afnan",
+    "nameEn": "Rare Passion",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "ورد وعنبر وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-fakhar-black",
+    "brand": "Lattafa",
+    "nameEn": "Fakhar Black",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تفاح ومريمية وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "YSL Y EDP",
+        "priceLabel": "100–155",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-ana-abiyedh-rouge",
+    "brand": "Lattafa",
+    "nameEn": "Ana Abiyedh Rouge",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "عنبر ومسك وحلاوة"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "MFK Baccarat Rouge 540",
+        "priceLabel": "250–500",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-the-kingdom-for-men",
+    "brand": "Lattafa",
+    "nameEn": "The Kingdom for Men",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وفانيليا ولافندر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "JPG Le Male Elixir",
+        "priceLabel": "100–180",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-ramz-silver",
+    "brand": "Lattafa",
+    "nameEn": "Ramz Silver",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "كمثرى وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "JPG Ultra Male",
+        "priceLabel": "100–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-maahir-legacy",
+    "brand": "Lattafa",
+    "nameEn": "Maahir Legacy",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات ونعناع"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "PDM Sedley",
+        "priceLabel": "250–350",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-eternal-oud",
+    "brand": "Lattafa",
+    "nameEn": "Eternal Oud",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "عنبر وفانيليا وبرقوق"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "MFK Grand Soir",
+        "priceLabel": "200–300",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-eclaire",
+    "brand": "Lattafa",
+    "nameEn": "Eclaire",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "كراميل وحليب وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Giardini di Toscana Bianco Latte",
+        "priceLabel": "120–180",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-emaan",
+    "brand": "Lattafa",
+    "nameEn": "Emaan",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زهور بيضاء وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Armani My Way",
+        "priceLabel": "100–155",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-suqraat",
+    "brand": "Lattafa",
+    "nameEn": "Suqraat",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات وبخور ونفحات بحرية"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Armani Acqua di Gio Profumo",
+        "priceLabel": "100–200",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "armaf-club-de-nuit-intense-man",
+    "brand": "Armaf",
+    "nameEn": "Club de Nuit Intense Man",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات ودخان وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Creed Aventus",
+        "priceLabel": "350–495",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "armaf-club-de-nuit-untold",
+    "brand": "Armaf",
+    "nameEn": "Club de Nuit Untold",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زعفران وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "MFK Baccarat Rouge 540",
+        "priceLabel": "250–500",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "armaf-club-de-nuit-woman",
+    "brand": "Armaf",
+    "nameEn": "Club de Nuit Woman",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "برتقال وورد وباتشولي"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Chanel Coco Mademoiselle",
+        "priceLabel": "100–180",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "armaf-club-de-nuit-sillage",
+    "brand": "Armaf",
+    "nameEn": "Club de Nuit Sillage",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Creed Silver Mountain Water",
+        "priceLabel": "300–470",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "armaf-ventana",
+    "brand": "Armaf",
+    "nameEn": "Ventana",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات وتوابل وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Dior Sauvage",
+        "priceLabel": "100–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "armaf-legesi-homme",
+    "brand": "Armaf",
+    "nameEn": "Legesi Homme",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "لافندر وأعشاب وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Chanel Platinum Egoiste",
+        "priceLabel": "100–160",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-salvo",
+    "brand": "Maison Alhambra",
+    "nameEn": "Salvo",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فلفل وبرغموت"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Dior Sauvage",
+        "priceLabel": "100–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-delilah",
+    "brand": "Maison Alhambra",
+    "nameEn": "Delilah",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "ورد وليتشي"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "PDM Delina",
+        "priceLabel": "250–380",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-jean-lowe-azure",
+    "brand": "Maison Alhambra",
+    "nameEn": "Jean Lowe Azure",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات وزنجبيل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Louis Vuitton Afternoon Swim",
+        "priceLabel": "300–400",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-jean-lowe-immortal",
+    "brand": "Maison Alhambra",
+    "nameEn": "Jean Lowe Immortal",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زنجبيل وحمضيات وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Louis Vuitton L’Immensité",
+        "priceLabel": "300–400",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-woody-oud",
+    "brand": "Maison Alhambra",
+    "nameEn": "Woody Oud",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "عود وهيل وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Tom Ford Oud Wood",
+        "priceLabel": "200–350",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-hercules",
+    "brand": "Maison Alhambra",
+    "nameEn": "Hercules",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ وفانيليا وقرفة"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "PDM Herod",
+        "priceLabel": "250–365",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "maison-alhambra-glacier-le-noir",
+    "brand": "Maison Alhambra",
+    "nameEn": "Glacier Le Noir",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "هيل ولافندر وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "JPG Le Male Le Parfum",
+        "priceLabel": "100–160",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "french-avenue-spectre-ghost",
+    "brand": "French Avenue",
+    "nameEn": "Spectre Ghost",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زنجبيل وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Nishane Ani",
+        "priceLabel": "200–340",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "french-avenue-royal-blend",
+    "brand": "French Avenue",
+    "nameEn": "Royal Blend",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "قرفة وفانيليا وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Kilian Angels’ Share",
+        "priceLabel": "230–300",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "french-avenue-vulcan-feu",
+    "brand": "French Avenue",
+    "nameEn": "Vulcan Feu",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "مانجو وزنجبيل وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "SHL God of Fire",
+        "priceLabel": "200–300",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "al-haramain-laventure",
+    "brand": "Al Haramain",
+    "nameEn": "L’Aventure",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات وأخشاب ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 60,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Creed Aventus",
+        "priceLabel": "350–495",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "al-haramain-detour-noir",
+    "brand": "Al Haramain",
+    "nameEn": "Detour Noir",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تفاح وفانيليا وتوابل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "PDM Layton",
+        "priceLabel": "250–365",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "al-haramain-amber-oud-aqua-dubai",
+    "brand": "Al Haramain",
+    "nameEn": "Amber Oud Aqua Dubai",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات وشاي وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 40,
+        "max": 80,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Louis Vuitton Imagination",
+        "priceLabel": "300–400",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "paris-corner-killer-oud-ethic",
+    "brand": "Paris Corner",
+    "nameEn": "Killer Oud Ethic",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "عود وتوابل وبخور"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Amouage Epic Man",
+        "priceLabel": "300–395",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "fragrance-world-suits",
+    "brand": "Fragrance World",
+    "nameEn": "Suits",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "باتشولي وتوابل وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "YSL Tuxedo",
+        "priceLabel": "250–330",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "fragrance-world-divin-asylum",
+    "brand": "Fragrance World",
+    "nameEn": "Divin Asylum",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "حمضيات وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Roja Elysium",
+        "priceLabel": "200–350",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "ajmal-evoke-gold-for-him",
+    "brand": "Ajmal",
+    "nameEn": "Evoke Gold for Him",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "سوسن ونيرولي وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Prada L’Homme",
+        "priceLabel": "90–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "khadlaj-shiyaaka-for-men",
+    "brand": "Khadlaj",
+    "nameEn": "Shiyaaka for Men",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زهور بيضاء وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Amouage Reflection Man",
+        "priceLabel": "300–395",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "ard-al-zaafaran-midnight-oud",
+    "brand": "Ard Al Zaafaran",
+    "nameEn": "Midnight Oud",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "بخور وعنبر وتوابل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Amouage Interlude Man",
+        "priceLabel": "350–395",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "rayhaan-obsidian",
+    "brand": "Rayhaan",
+    "nameEn": "Obsidian",
+    "nameAr": null,
+    "gender": "Men",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "سوسن وأخشاب وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Dior Homme Intense",
+        "priceLabel": "100–170",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "ibraq-dominican-tobacco",
+    "brand": "IBRAQ",
+    "nameEn": "Dominican Tobacco",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تبغ بطابع دافئ"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 40,
+        "max": 70,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-supremacy-pink",
+    "brand": "Afnan",
+    "nameEn": "Supremacy Pink",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "ورد وفلفل وردي ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-supremacy-gala",
+    "brand": "Afnan",
+    "nameEn": "Supremacy Gala",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "كراميل وفانيليا وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 35,
+        "max": 65,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-9am-pour-femme",
+    "brand": "Afnan",
+    "nameEn": "9AM Pour Femme",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فاكهة ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "verified-retailer",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": "2025-01-01"
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-9pm-pour-femme",
+    "brand": "Afnan",
+    "nameEn": "9PM Pour Femme",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زهور وعنبر وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "verified-retailer",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": "2025-01-01"
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-turathi-red",
+    "brand": "Afnan",
+    "nameEn": "Turathi Red",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "ورد وفواكه"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-rare-tiffany",
+    "brand": "Afnan",
+    "nameEn": "Rare Tiffany",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زهور ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-highness-i",
+    "brand": "Afnan",
+    "nameEn": "Highness I",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "طابع زهري"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 50,
+        "max": 90,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-highness-ii",
+    "brand": "Afnan",
+    "nameEn": "Highness II",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "طابع شرقي زهري"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 50,
+        "max": 90,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "afnan-modest-deux",
+    "brand": "Afnan",
+    "nameEn": "Modest Deux",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فاكهة حلوة وفانيليا",
+      "تشابه محتمل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": "https://us.afnan.com/collections/all",
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [
+      "https://us.afnan.com/collections/all"
+    ],
+    "similar": [
+      {
+        "name": "Lancôme La Nuit Trésor",
+        "priceLabel": "90–150",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-angham",
+    "brand": "Lattafa",
+    "nameEn": "Angham",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فانيليا ولافندر وزنجبيل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Burberry Goddess",
+        "priceLabel": "100–165",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-vintage-radio",
+    "brand": "Lattafa",
+    "nameEn": "Vintage Radio",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "برقوق وأخشاب ولافندر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Initio Paragon",
+        "priceLabel": "250–360",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-art-of-universe",
+    "brand": "Lattafa",
+    "nameEn": "Art of Universe",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "كمثرى وحمضيات ومسك"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Ex Nihilo Blue Talisman",
+        "priceLabel": "250–400",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-liam-grey",
+    "brand": "Lattafa",
+    "nameEn": "Liam Grey",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "شاي وهيل وتين"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "BDK Gris Charnel",
+        "priceLabel": "180–290",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-nebras",
+    "brand": "Lattafa",
+    "nameEn": "Nebras",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فانيليا وكاكاو وتوت"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 45,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Billie Eilish Eilish",
+        "priceLabel": "50–85",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-badee-al-oud-sublime",
+    "brand": "Lattafa",
+    "nameEn": "Badee Al Oud Sublime",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "تفاح وفواكه وزهور"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Kayali Eden Juicy Apple",
+        "priceLabel": "75–130",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-badee-al-oud-amethyst",
+    "brand": "Lattafa",
+    "nameEn": "Badee Al Oud Amethyst",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "ورد وعنبر وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Initio Atomic Rose",
+        "priceLabel": "250–380",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-qaed-al-fursan",
+    "brand": "Lattafa",
+    "nameEn": "Qaed Al Fursan",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "أناناس وزعفران وأخشاب"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-teriaq",
+    "brand": "Lattafa",
+    "nameEn": "Teriaq",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "كراميل وجلد وعسل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 25,
+        "max": 50,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-teriaq-intense",
+    "brand": "Lattafa",
+    "nameEn": "Teriaq Intense",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "برقوق وقرفة وعنبر"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 30,
+        "max": 55,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-yara-tous",
+    "brand": "Lattafa",
+    "nameEn": "Yara Tous",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "مانجو وجوز هند وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-yara-moi",
+    "brand": "Lattafa",
+    "nameEn": "Yara Moi",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "ياسمين وخوخ وكراميل"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-yara-candy",
+    "brand": "Lattafa",
+    "nameEn": "Yara Candy",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فراولة وفانيليا وفاكهة"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-ajwad",
+    "brand": "Lattafa",
+    "nameEn": "Ajwad",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "فاكهة وورد وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 35,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-ameer-al-oud-intense-oud",
+    "brand": "Lattafa",
+    "nameEn": "Ameer Al Oud Intense Oud",
+    "nameAr": null,
+    "gender": "Unisex",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "أخشاب مدخنة وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 15,
+        "max": 30,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Maison Margiela By the Fireplace",
+        "priceLabel": "100–170",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  },
+  {
+    "id": "lattafa-fakhar-rose",
+    "brand": "Lattafa",
+    "nameEn": "Fakhar Rose",
+    "nameAr": null,
+    "gender": "Women",
+    "releaseYear": null,
+    "concentration": null,
+    "bottleSizesMl": [],
+    "descriptionEn": null,
+    "descriptionAr": null,
+    "notes": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "mainAccords": [
+      "زهور بيضاء وفانيليا"
+    ],
+    "family": null,
+    "seasons": [],
+    "occasions": [],
+    "prices": [
+      {
+        "amount": null,
+        "min": 20,
+        "max": 40,
+        "currency": "USD",
+        "region": "Unknown",
+        "sizeMl": null,
+        "type": "estimated",
+        "sourceUrl": null,
+        "verifiedAt": null
+      }
+    ],
+    "image": {
+      "localPath": null,
+      "sourceUrl": null,
+      "licenseStatus": "unknown",
+      "verified": false
+    },
+    "officialUrl": null,
+    "sources": [],
+    "similar": [
+      {
+        "name": "Givenchy L’Interdit",
+        "priceLabel": "90–160",
+        "relationship": "commonly-reported",
+        "status": "unverified",
+        "sources": []
+      }
+    ],
+    "alternatives": [],
+    "verificationStatus": "legacy-unverified"
+  }
+]

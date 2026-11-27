@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+image-verification-report.json
+.DS_Store
