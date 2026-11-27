@@ -35,14 +35,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": "https://uae.afnan.com/products/supremacy-incense",
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-supremacy-incense.webp",
+      "sourceUrl": "https://us.afnan.com/products/supremacy-incense",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": "https://afnan.com/products/supremacy-incense",
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/supremacy-incense"
     ],
     "similar": [
       {
@@ -92,14 +93,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-supremacy-silver.webp",
+      "sourceUrl": "https://us.afnan.com/products/supremacy-silver",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/supremacy-silver"
     ],
     "similar": [
       {
@@ -149,14 +151,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-supremacy-not-only-intense.webp",
+      "sourceUrl": "https://us.afnan.com/products/supremacy-not-only-intense",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/supremacy-not-only-intense"
     ],
     "similar": [
       {
@@ -206,14 +209,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-supremacy-in-oud.webp",
+      "sourceUrl": "https://us.afnan.com/products/supremacy-oud",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/supremacy-oud"
     ],
     "similar": [
       {
@@ -263,14 +267,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-supremacy-in-heaven.webp",
+      "sourceUrl": "https://us.afnan.com/products/supremacy-in-heaven",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/supremacy-in-heaven"
     ],
     "similar": [
       {
@@ -320,14 +325,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-9pm.webp",
+      "sourceUrl": "https://us.afnan.com/products/9-pm",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/9-pm"
     ],
     "similar": [
       {
@@ -378,14 +384,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-9am-dive.webp",
+      "sourceUrl": "https://us.afnan.com/products/9-am-dive",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/9-am-dive"
     ],
     "similar": [
       {
@@ -435,14 +442,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-turathi-blue.webp",
+      "sourceUrl": "https://us.afnan.com/products/turathi-blue-homme",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/turathi-blue-homme"
     ],
     "similar": [
       {
@@ -492,14 +500,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-turathi-brown.webp",
+      "sourceUrl": "https://us.afnan.com/products/turathi-brown-homme",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/turathi-brown-homme"
     ],
     "similar": [
       {
@@ -549,14 +558,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-turathi-electric.webp",
+      "sourceUrl": "https://us.afnan.com/products/turathi-electric",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/turathi-electric"
     ],
     "similar": [
       {
@@ -606,14 +616,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-rare-carbon.webp",
+      "sourceUrl": "https://us.afnan.com/products/rare-carbon",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/rare-carbon"
     ],
     "similar": [
       {
@@ -663,14 +674,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-rare-reef.webp",
+      "sourceUrl": "https://us.afnan.com/products/rare-reef",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/rare-reef"
     ],
     "similar": [
       {
@@ -721,14 +733,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-tobacco-rush.webp",
+      "sourceUrl": "https://us.afnan.com/products/tobacco-rush",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/tobacco-rush"
     ],
     "similar": [
       {
@@ -778,14 +791,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-historic-sahara.webp",
+      "sourceUrl": "https://us.afnan.com/products/historic-sahara",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/historic-sahara"
     ],
     "similar": [
       {
@@ -835,14 +849,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-mystique-bouquet.webp",
+      "sourceUrl": "https://us.afnan.com/products/mystique-bouquet",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/mystique-bouquet"
     ],
     "similar": [
       {
@@ -892,14 +907,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-cherry-bouquet.webp",
+      "sourceUrl": "https://us.afnan.com/products/cherry-bouquet",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/cherry-bouquet"
     ],
     "similar": [
       {
@@ -949,14 +965,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-souvenir-floral-bouquet.webp",
+      "sourceUrl": "https://us.afnan.com/products/souvenir-floral-bouquet",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/souvenir-floral-bouquet"
     ],
     "similar": [
       {
@@ -1006,14 +1023,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-modest-une.webp",
+      "sourceUrl": "https://us.afnan.com/products/modest-une",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/modest-une"
     ],
     "similar": [
       {
@@ -2491,14 +2509,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-supremacy-collectors-edition.webp",
+      "sourceUrl": "https://us.afnan.com/products/supremacy-collectors-edition",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/supremacy-collectors-edition"
     ],
     "similar": [
       {
@@ -2548,14 +2567,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-9pm-rebel.webp",
+      "sourceUrl": "https://us.afnan.com/products/9-pm-rebel",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/9-pm-rebel"
     ],
     "similar": [],
     "alternatives": [],
@@ -2597,14 +2617,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-9pm-elixir.webp",
+      "sourceUrl": "https://us.afnan.com/products/9-pm-elixir",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/9-pm-elixir"
     ],
     "similar": [],
     "alternatives": [],
@@ -2646,14 +2667,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-la-fleur-bouquet.webp",
+      "sourceUrl": "https://us.afnan.com/products/la-fleur-bouquet",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/la-fleur-bouquet"
     ],
     "similar": [
       {
@@ -2703,14 +2725,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-violet-bouquet.webp",
+      "sourceUrl": "https://us.afnan.com/products/violet-bouquet",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/violet-bouquet"
     ],
     "similar": [
       {
@@ -2760,14 +2783,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-rare-passion.webp",
+      "sourceUrl": "https://us.afnan.com/products/rare-passion",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/rare-passion"
     ],
     "similar": [],
     "alternatives": [],
@@ -3322,13 +3346,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/armaf/armaf-club-de-nuit-intense-man.webp",
+      "sourceUrl": "https://armaf.com/products/club-de-nuit-intense-for-man",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://armaf.com/products/club-de-nuit-intense-for-man"
+    ],
     "similar": [
       {
         "name": "Creed Aventus",
@@ -3377,13 +3403,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/armaf/armaf-club-de-nuit-untold.webp",
+      "sourceUrl": "https://armaf.com/products/armaf-club-de-nuit-untold",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://armaf.com/products/armaf-club-de-nuit-untold"
+    ],
     "similar": [
       {
         "name": "MFK Baccarat Rouge 540",
@@ -3432,13 +3460,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/armaf/armaf-club-de-nuit-woman.webp",
+      "sourceUrl": "https://armaf.com/products/club-de-nuit-w",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://armaf.com/products/club-de-nuit-w"
+    ],
     "similar": [
       {
         "name": "Chanel Coco Mademoiselle",
@@ -3487,13 +3517,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/armaf/armaf-club-de-nuit-sillage.webp",
+      "sourceUrl": "https://armaf.com/products/armaf-club-de-nuit-silage-men",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://armaf.com/products/armaf-club-de-nuit-silage-men"
+    ],
     "similar": [
       {
         "name": "Creed Silver Mountain Water",
@@ -3542,13 +3574,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/armaf/armaf-ventana.webp",
+      "sourceUrl": "https://armaf.com/products/ventana-pour-homme",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://armaf.com/products/ventana-pour-homme"
+    ],
     "similar": [
       {
         "name": "Dior Sauvage",
@@ -4703,13 +4737,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/rayhaan/rayhaan-obsidian.webp",
+      "sourceUrl": "https://rayhaanperfumes.com/products/rayhaan-obsidian",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://rayhaanperfumes.com/products/rayhaan-obsidian"
+    ],
     "similar": [
       {
         "name": "Dior Homme Intense",
@@ -4807,14 +4843,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-supremacy-pink.webp",
+      "sourceUrl": "https://us.afnan.com/products/supremacy-pink",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/supremacy-pink"
     ],
     "similar": [],
     "alternatives": [],
@@ -4856,14 +4893,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-supremacy-gala.webp",
+      "sourceUrl": "https://us.afnan.com/products/supremacy-gala-luxury-collection",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/supremacy-gala-luxury-collection"
     ],
     "similar": [],
     "alternatives": [],
@@ -4905,14 +4943,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-9am-pour-femme.webp",
+      "sourceUrl": "https://us.afnan.com/products/9-am-pour-femme",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/9-am-pour-femme"
     ],
     "similar": [],
     "alternatives": [],
@@ -4954,14 +4993,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-9pm-pour-femme.webp",
+      "sourceUrl": "https://us.afnan.com/products/9-pm-pour-femme",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/9-pm-pour-femme"
     ],
     "similar": [],
     "alternatives": [],
@@ -5003,14 +5043,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-turathi-red.webp",
+      "sourceUrl": "https://us.afnan.com/products/turathi-red-femme",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/turathi-red-femme"
     ],
     "similar": [],
     "alternatives": [],
@@ -5200,14 +5241,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/afnan/afnan-modest-deux.webp",
+      "sourceUrl": "https://us.afnan.com/products/modest-deux",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
     "sources": [
-      "https://us.afnan.com/collections/all"
+      "https://us.afnan.com/collections/all",
+      "https://us.afnan.com/products/modest-deux"
     ],
     "similar": [
       {

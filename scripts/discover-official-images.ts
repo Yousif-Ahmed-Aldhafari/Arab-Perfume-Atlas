@@ -69,22 +69,29 @@ const shopify = async (
   domain: string,
   source: Product["source"],
 ): Promise<Product[]> => {
-  const data = await fetchJson<{
-    products: Array<{
-      title: string;
-      handle: string;
-      images: Array<{ src: string }>;
-    }>;
-  }>(`https://${domain}/products.json?limit=250`);
-  console.log(`${domain}: ${data.products.length} products`);
-  return data.products
-    .filter((product) => product.images[0]?.src)
-    .map((product) => ({
-      title: product.title,
-      url: `https://${domain}/products/${product.handle}`,
-      imageUrl: product.images[0].src,
-      source,
-    }));
+  const products: Product[] = [];
+  for (let page = 1; page <= 20; page++) {
+    const data = await fetchJson<{
+      products: Array<{
+        title: string;
+        handle: string;
+        images: Array<{ src: string }>;
+      }>;
+    }>(`https://${domain}/products.json?limit=250&page=${page}`);
+    console.log(`${domain} page ${page}: ${data.products.length} products`);
+    products.push(
+      ...data.products
+        .filter((product) => product.images[0]?.src)
+        .map((product) => ({
+          title: product.title,
+          url: `https://${domain}/products/${product.handle}`,
+          imageUrl: product.images[0].src,
+          source,
+        })),
+    );
+    if (data.products.length < 250) break;
+  }
+  return products;
 };
 
 const lattafa = async (): Promise<Product[]> => {
@@ -96,7 +103,9 @@ const lattafa = async (): Promise<Product[]> => {
         permalink: string;
         images: Array<{ src: string }>;
       }>
-    >(`https://lattafa.com/wp-json/wc/store/v1/products?per_page=100&page=${page}`);
+    >(
+      `https://lattafa.com/wp-json/wc/store/v1/products?per_page=100&page=${page}`,
+    );
     console.log(`lattafa.com page ${page}: ${data.length} products`);
     if (!data.length) break;
     products.push(
@@ -125,7 +134,7 @@ const safe = async (label: string, load: () => Promise<Product[]>) => {
 const products = [
   ...(process.env.SKIP_BLOCKED_SOURCES
     ? []
-    : await safe("Afnan", () => shopify("afnan.com", "official-afnan"))),
+    : await safe("Afnan", () => shopify("us.afnan.com", "official-afnan"))),
   ...(process.env.SKIP_BLOCKED_SOURCES
     ? []
     : await safe("Armaf", () => shopify("armaf.com", "official-armaf"))),
@@ -156,6 +165,14 @@ const brandSource: Record<string, Product["source"]> = {
   IBRAQ: "official-ibraq",
 };
 const officialTitleAliases: Record<string, string> = {
+  "afnan-9pm": "9 PM",
+  "afnan-9am-dive": "9 AM Dive",
+  "afnan-9pm-rebel": "9 PM Rebel",
+  "afnan-9pm-elixir": "9 PM Elixir",
+  "afnan-supremacy-gala": "SUPREMACY GALA - LUXURY COLLECTION",
+  "afnan-9am-pour-femme": "9 AM - Pour Femme",
+  "afnan-9pm-pour-femme": "9 PM - Pour Femme",
+  "armaf-ventana": "VENTANA POUR HOMME PARFUM",
   "lattafa-badee-al-oud-oud-for-glory": "Badee Al Oud &#8211; Oud for glory",
   "lattafa-badee-al-oud-honor-glory": "Badee Al Oud Honor and Glory",
   "lattafa-fakhar-black": "Fakhar Lattafa Men",
@@ -165,6 +182,14 @@ const officialTitleAliases: Record<string, string> = {
   "lattafa-teriaq-intense": "Lattafa Teriaq Intense",
   "lattafa-ameer-al-oud-intense-oud": "Ameer Al Oudh &#8211; Intense",
   "lattafa-fakhar-rose": "Fakhar Lattafa Women",
+  "rayhaan-obsidian": "Rayhaan Obsidian",
+};
+const preferredProductUrls: Record<string, string> = {
+  "afnan-supremacy-not-only-intense":
+    "https://us.afnan.com/products/supremacy-not-only-intense",
+  "armaf-club-de-nuit-intense-man":
+    "https://armaf.com/products/club-de-nuit-intense-for-man",
+  "armaf-club-de-nuit-woman": "https://armaf.com/products/club-de-nuit-w",
 };
 
 const results = fragrances
@@ -173,17 +198,27 @@ const results = fragrances
     const target = normalize(
       officialTitleAliases[fragrance.id] || fragrance.nameEn,
     );
-    const matches = products
+    let matches = products
       .filter((product) => product.source === brandSource[fragrance.brand])
       .filter((product) => normalize(product.title) === target);
+    const preferredUrl = preferredProductUrls[fragrance.id];
+    if (preferredUrl)
+      matches = matches.filter((product) => product.url === preferredUrl);
     const candidates = [
-      ...new Map(matches.map((product) => [product.imageUrl, product])).values(),
+      ...new Map(
+        matches.map((product) => [product.imageUrl, product]),
+      ).values(),
     ];
     return {
       id: fragrance.id,
       brand: fragrance.brand,
       name: fragrance.nameEn,
-      status: candidates.length === 1 ? "exact" : candidates.length ? "ambiguous" : "missing",
+      status:
+        candidates.length === 1
+          ? "exact"
+          : candidates.length
+            ? "ambiguous"
+            : "missing",
       candidates,
     };
   });
