@@ -1063,13 +1063,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-khamrah.webp",
+      "sourceUrl": "https://lattafa.com/product/khamrah/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/khamrah/"
+    ],
     "similar": [
       {
         "name": "Kilian Angels’ Share",
@@ -1118,13 +1120,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-khamrah-qahwa.webp",
+      "sourceUrl": "https://lattafa.com/product/khamrah-qahwa/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/khamrah-qahwa/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -1165,13 +1169,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-khamrah-dukhan.webp",
+      "sourceUrl": "https://lattafa.com/product/khamrah-dukhan/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/khamrah-dukhan/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -1212,13 +1218,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-asad.webp",
+      "sourceUrl": "https://lattafa.com/product/asad/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/asad/"
+    ],
     "similar": [
       {
         "name": "Dior Sauvage Elixir",
@@ -1267,13 +1275,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-yara.webp",
+      "sourceUrl": "https://lattafa.com/product/yara/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/yara/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -1314,13 +1324,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-badee-al-oud-oud-for-glory.webp",
+      "sourceUrl": "https://lattafa.com/product/badee-al-oud-oud-for-glory/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/badee-al-oud-oud-for-glory/"
+    ],
     "similar": [
       {
         "name": "Initio Oud for Greatness",
@@ -1369,13 +1381,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-badee-al-oud-honor-glory.webp",
+      "sourceUrl": "https://lattafa.com/product/badee-al-oud-honor-and-glory/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/badee-al-oud-honor-and-glory/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -2779,13 +2793,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-fakhar-black.webp",
+      "sourceUrl": "https://lattafa.com/product/fakhar-lattafa-men/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/fakhar-lattafa-men/"
+    ],
     "similar": [
       {
         "name": "YSL Y EDP",
@@ -2834,13 +2850,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-ana-abiyedh-rouge.webp",
+      "sourceUrl": "https://lattafa.com/product/ana-abiyedh-rouge/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/ana-abiyedh-rouge/"
+    ],
     "similar": [
       {
         "name": "MFK Baccarat Rouge 540",
@@ -2889,13 +2907,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-the-kingdom-for-men.webp",
+      "sourceUrl": "https://lattafa.com/product/kingdom-men/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/kingdom-men/"
+    ],
     "similar": [
       {
         "name": "JPG Le Male Elixir",
@@ -2944,13 +2964,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-ramz-silver.webp",
+      "sourceUrl": "https://lattafa.com/product/ramz-lattafa-silver/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/ramz-lattafa-silver/"
+    ],
     "similar": [
       {
         "name": "JPG Ultra Male",
@@ -2999,13 +3021,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-maahir-legacy.webp",
+      "sourceUrl": "https://lattafa.com/product/maahir-legacy/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/maahir-legacy/"
+    ],
     "similar": [
       {
         "name": "PDM Sedley",
@@ -3054,13 +3078,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-eternal-oud.webp",
+      "sourceUrl": "https://lattafa.com/product/eternal-oud/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/eternal-oud/"
+    ],
     "similar": [
       {
         "name": "MFK Grand Soir",
@@ -3109,13 +3135,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-eclaire.webp",
+      "sourceUrl": "https://lattafa.com/product/eclaire/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/eclaire/"
+    ],
     "similar": [
       {
         "name": "Giardini di Toscana Bianco Latte",
@@ -3164,13 +3192,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-emaan.webp",
+      "sourceUrl": "https://lattafa.com/product/emaan/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/emaan/"
+    ],
     "similar": [
       {
         "name": "Armani My Way",
@@ -3219,13 +3249,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-suqraat.webp",
+      "sourceUrl": "https://lattafa.com/product/suqaraat/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/suqaraat/"
+    ],
     "similar": [
       {
         "name": "Armani Acqua di Gio Profumo",
@@ -5201,13 +5233,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-angham.webp",
+      "sourceUrl": "https://lattafa.com/product/angham/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/angham/"
+    ],
     "similar": [
       {
         "name": "Burberry Goddess",
@@ -5256,13 +5290,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-vintage-radio.webp",
+      "sourceUrl": "https://lattafa.com/product/vintage-radio/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/vintage-radio/"
+    ],
     "similar": [
       {
         "name": "Initio Paragon",
@@ -5311,13 +5347,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-art-of-universe.webp",
+      "sourceUrl": "https://lattafa.com/product/art-of-universe/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/art-of-universe/"
+    ],
     "similar": [
       {
         "name": "Ex Nihilo Blue Talisman",
@@ -5421,13 +5459,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-nebras.webp",
+      "sourceUrl": "https://lattafa.com/product/nebras/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/nebras/"
+    ],
     "similar": [
       {
         "name": "Billie Eilish Eilish",
@@ -5476,13 +5516,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-badee-al-oud-sublime.webp",
+      "sourceUrl": "https://lattafa.com/product/badee-al-oud-sublime/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/badee-al-oud-sublime/"
+    ],
     "similar": [
       {
         "name": "Kayali Eden Juicy Apple",
@@ -5586,13 +5628,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-qaed-al-fursan.webp",
+      "sourceUrl": "https://lattafa.com/product/qaed-al-fursan/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/qaed-al-fursan/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -5633,13 +5677,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-teriaq.webp",
+      "sourceUrl": "https://lattafa.com/product/teriaq/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/teriaq/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -5680,13 +5726,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-teriaq-intense.webp",
+      "sourceUrl": "https://lattafa.com/product/lattafa-teriaq-intense/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/lattafa-teriaq-intense/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -5727,13 +5775,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-yara-tous.webp",
+      "sourceUrl": "https://lattafa.com/product/yara-tous/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/yara-tous/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -5774,13 +5824,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-yara-moi.webp",
+      "sourceUrl": "https://lattafa.com/product/yara-moi/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/yara-moi/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -5821,13 +5873,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-yara-candy.webp",
+      "sourceUrl": "https://lattafa.com/product/yara-candy/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/yara-candy/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -5868,13 +5922,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-ajwad.webp",
+      "sourceUrl": "https://lattafa.com/product/ajwad/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/ajwad/"
+    ],
     "similar": [],
     "alternatives": [],
     "verificationStatus": "legacy-unverified"
@@ -5915,13 +5971,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-ameer-al-oud-intense-oud.webp",
+      "sourceUrl": "https://lattafa.com/product/ameer-al-oudh-intense/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/ameer-al-oudh-intense/"
+    ],
     "similar": [
       {
         "name": "Maison Margiela By the Fireplace",
@@ -5970,13 +6028,15 @@
       }
     ],
     "image": {
-      "localPath": null,
-      "sourceUrl": null,
-      "licenseStatus": "unknown",
-      "verified": false
+      "localPath": "assets/perfumes/lattafa/lattafa-fakhar-rose.webp",
+      "sourceUrl": "https://lattafa.com/product/fakhar-lattafa-women/",
+      "licenseStatus": "official-source-reuse-unverified",
+      "verified": true
     },
     "officialUrl": null,
-    "sources": [],
+    "sources": [
+      "https://lattafa.com/product/fakhar-lattafa-women/"
+    ],
     "similar": [
       {
         "name": "Givenchy L’Interdit",

@@ -6,3 +6,5 @@ test-results/
 *.tsbuildinfo
 image-verification-report.json
 .DS_Store
+.cache/
+official-image-candidates.json

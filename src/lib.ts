@@ -1,4 +1,9 @@
 import type { Fragrance, Price } from "./types";
+
+const perfumeImages = import.meta.glob(
+  "./assets/perfumes/**/*.{jpg,jpeg,png,webp,avif}",
+  { eager: true, query: "?url", import: "default" },
+) as Record<string, string>;
 export const genderAr = {
   Men: "رجالي",
   Women: "نسائي",
@@ -11,7 +16,8 @@ export const priceLabel = (p: Price) =>
     : `${p.min}–${p.max} ${p.currency}`;
 export const imagePath = (f: Fragrance) =>
   f.image.localPath
-    ? `${import.meta.env.BASE_URL}${f.image.localPath.replace(/^\//, "")}`
+    ? perfumeImages[`./${f.image.localPath.replace(/^\//, "")}`] ||
+      `${import.meta.env.BASE_URL}images/image-unavailable.svg`
     : `${import.meta.env.BASE_URL}images/image-unavailable.svg`;
 export const searchText = (f: Fragrance) =>
   [
